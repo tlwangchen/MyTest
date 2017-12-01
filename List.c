@@ -2,5 +2,6 @@
 
 void init()
 {
-  printf("this is list");
+    printf("this is list");
+    printf("change file\n");
 }
