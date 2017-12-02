@@ -9,5 +9,7 @@ typedef struct Node
 
 void init();
 
+void insert();
+
 
 #endif
