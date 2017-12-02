@@ -10,6 +10,8 @@ typedef struct Node
 void init();
 
 void insert();
+void delete();
+int findval();
 
 
 #endif
